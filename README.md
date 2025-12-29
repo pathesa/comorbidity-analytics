@@ -74,16 +74,6 @@ Built predictive models for three outcomes:
 
 **Note:** All models prioritize recall over precision to minimize false negatives in healthcare contexts (avoiding missing at-risk patients is more important than reducing false alarms).
 
-## Project Structure
-```
-chronic-disease-analysis/
-├── heart_disease_analysis.ipynb    # Full Jupyter notebook
-├── data/
-│   └── heart_2020_cleaned.csv      # 330K+ health records
-├── README.md
-└── requirements.txt
-```
-
 ### Key Sections
 
 1. **EDA & Correlation Analysis** — Understand disease patterns and lifestyle associations
