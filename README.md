@@ -64,7 +64,7 @@ Built predictive models for three outcomes:
 - **Diabetes + Kidney Disease:** 40.3% of kidney disease patients also have diabetes; linked to alcohol consumption and mental health issues
 - **Common Pattern:** Both comorbidity groups show high co-occurrence with smoking and difficulty walking
 
-## 💡 Model Performance Summary
+## Model Performance Summary
 
 | Model | Task | Recall | Precision | ROC-AUC | Use Case |
 |-------|------|--------|-----------|---------|----------|
